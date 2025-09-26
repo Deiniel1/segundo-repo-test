@@ -1,2 +1,2 @@
-nombre ="segundo archivo"
+nombre =" segundo archivo modificado "
 print (nombre)
